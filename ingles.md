@@ -56,7 +56,3 @@ Por eso, **practicar inglés es parte de aprender ciberseguridad**, no algo apar
 | Find / Search | Encontrar / Buscar |
 
 Agrega las tuyas a medida que aparezcan. 💪
-
----
-
-[← Volver al inicio](README.md)

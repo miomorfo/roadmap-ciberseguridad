@@ -59,7 +59,3 @@ Aprender con otros ayuda muchísimo:
 ## Si decidiste que no es lo tuyo
 
 🎉 También es un logro. Probaste algo nuevo, aprendiste a protegerte, entiendes cómo funciona internet mejor que la mayoría y descubriste algo sobre ti misma. Nada de eso se pierde.
-
----
-
-[← Volver al inicio](README.md)

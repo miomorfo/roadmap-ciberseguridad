@@ -123,7 +123,3 @@ No pide conocimientos previos.
 - 🟢 **Me gustó y quiero más** → [Etapa 2](02-etapa-2-como-funciona.md)
 - 🟡 **Más o menos** → Prueba igual el comienzo de la Etapa 2. A muchas personas les engancha cuando empiezan a "tocar" cosas.
 - 🔴 **No me gustó** → ¡Bien! Ya sabes protegerte mejor que la mayoría. Puedes quedarte aquí sin culpa.
-
----
-
-[← Volver al inicio](README.md)

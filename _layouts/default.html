@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "es" }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .page-header { padding: 2rem 1rem 1.5rem; }
+      .page-header .project-name a { color: #fff; text-decoration: none; }
+      .site-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; margin-top: 1.25rem; }
+      .site-nav a.btn { margin: 0; padding: .5rem .9rem; font-size: .95rem; }
+      .site-nav a.btn.actual { background-color: rgba(255,255,255,.35); border-color: rgba(255,255,255,.6); font-weight: 700; }
+      .pager { display: flex; justify-content: space-between; gap: 1rem; margin: 2.5rem 0 1rem; padding-top: 1.5rem; border-top: 1px solid #e1e4e8; }
+      .pager a { display: block; padding: .75rem 1rem; border: 1px solid #d0d7de; border-radius: .4rem; text-decoration: none; max-width: 48%; }
+      .pager a:hover { background: #f3f6f6; text-decoration: none; }
+      .pager .lbl { display: block; font-size: .8rem; color: #6a737d; }
+      .pager .siguiente { margin-left: auto; text-align: right; }
+      @media (max-width: 42em) {
+        .site-nav a.btn { width: auto; flex: 1 1 40%; font-size: .9rem; }
+        .page-header .project-tagline { display: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      <nav class="site-nav" aria-label="Menú">
+        {% for item in site.data.nav %}
+          {% assign url_item = item.url %}
+          {% if page.url == url_item or page.url == '/index.html' and url_item == '/' %}
+            <a href="{{ item.url | relative_url }}" class="btn actual" aria-current="page">{{ item.titulo }}</a>
+          {% else %}
+            <a href="{{ item.url | relative_url }}" class="btn">{{ item.titulo }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      {% assign total = site.data.nav | size %}
+      {% assign idx = -1 %}
+      {% for item in site.data.nav %}
+        {% if page.url == item.url or page.url == '/index.html' and item.url == '/' %}
+          {% assign idx = forloop.index0 %}
+        {% endif %}
+      {% endfor %}
+      {% if idx >= 0 %}
+        {% assign prev_i = idx | minus: 1 %}
+        {% assign next_i = idx | plus: 1 %}
+        <nav class="pager" aria-label="Anterior y siguiente">
+          {% if prev_i >= 0 %}
+            {% assign p = site.data.nav[prev_i] %}
+            <a class="anterior" href="{{ p.url | relative_url }}"><span class="lbl">← Anterior</span>{{ p.titulo }}</a>
+          {% endif %}
+          {% if next_i < total %}
+            {% assign n = site.data.nav[next_i] %}
+            <a class="siguiente" href="{{ n.url | relative_url }}"><span class="lbl">Siguiente →</span>{{ n.titulo }}</a>
+          {% endif %}
+        </nav>
+      {% endif %}
+    </main>
+  </body>
+</html>

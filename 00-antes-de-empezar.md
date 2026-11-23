@@ -51,7 +51,3 @@ En Chile, entrar sin permiso a sistemas ajenos es delito: lo dice la **Ley 21.45
 👉 Con un "sí" basta para seguir.
 
 👉 [Ir a la Etapa 1](01-etapa-1-curiosear.md)
-
----
-
-[← Volver al inicio](README.md)

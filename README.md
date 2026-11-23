@@ -14,8 +14,9 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 
 ## 🖱️ Cómo usar esta página
 
-- Haz clic en el nombre de cada etapa para abrirla.
-- Al final de cada etapa hay un link **"← Volver al inicio"** para regresar aquí.
+- Arriba, en todas las páginas, está el **menú** con todas las etapas, el glosario y la guía de inglés. Desde cualquier página puedes saltar a otra.
+- Para volver aquí, aprieta **🏠 Inicio** o el título de arriba.
+- Al final de cada página hay botones de **← Anterior** y **Siguiente →** para avanzar en orden.
 - Las palabras en **negrita** que no conozcas probablemente estén en el [glosario](glosario.md).
 - Casi todo el material está en **inglés**, y eso es a propósito: en ciberseguridad el inglés es parte del trabajo. No necesitas saber mucho para empezar. Lee la página [El inglés en ciberseguridad](ingles.md), que tiene consejos y las palabras que más se repiten.
 

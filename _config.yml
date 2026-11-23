@@ -4,6 +4,9 @@ theme: jekyll-theme-cayman
 lang: es
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
 relative_links:
   enabled: true
   collections: false

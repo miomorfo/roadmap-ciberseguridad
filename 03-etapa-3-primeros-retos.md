@@ -110,7 +110,3 @@ Si te gustó TryHackMe en la Etapa 2, sigue con el camino **Cyber Security 101**
 - 🟢 → [Etapa 4: elegir camino](04-etapa-4-elegir-camino.md)
 - 🟡 → Sigue jugando sin presión. No hay apuro para decidir nada.
 - 🔴 → Mira la Etapa 4 igual: quizás la parte técnica no te encanta, pero otra área sí.
-
----
-
-[← Volver al inicio](README.md)

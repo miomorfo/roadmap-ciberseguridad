@@ -41,7 +41,3 @@
 | **Gestor de contraseñas** | App que guarda todas tus contraseñas de forma segura, protegidas por una sola contraseña maestra. |
 | **Dominio** | El nombre de una página web, como `google.com`. Lo que importa es la parte final, justo antes de la primera `/`. |
 | **GRC** | Gobierno, Riesgo y Cumplimiento: la parte de normas, políticas y gestión. |
-
----
-
-[← Volver al inicio](README.md)

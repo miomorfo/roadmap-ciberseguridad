@@ -141,7 +141,3 @@ Y así sucesivamente: `bandit2`, `bandit3`… Cada nivel te da la llave del sigu
 - 🟢 → [Etapa 3: retos](03-etapa-3-primeros-retos.md)
 - 🟡 → Toma una pausa y vuelve. A veces la cabeza necesita descansar para que todo encaje.
 - 🔴 → Si lo técnico definitivamente no es lo tuyo, mira la parte de **Gestión y normas** en la [Etapa 4](04-etapa-4-elegir-camino.md). Hay ciberseguridad con mucho menos de terminal.
-
----
-
-[← Volver al inicio](README.md)
