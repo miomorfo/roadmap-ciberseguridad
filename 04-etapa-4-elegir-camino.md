@@ -49,7 +49,7 @@ Si después de todo esto sientes que **sí te gusta**, conversa con tu familia s
 
 Aprender con otros ayuda muchísimo:
 
-- **Discord:** es una app de chat organizada en comunidades (llamadas *servidores*), cada una con canales por tema. Es como un grupo de WhatsApp gigante, pero ordenado. TryHackMe y CyLab Security Academy tienen sus propios servidores, donde puedes hacer preguntas cuando te trabes. Busca el link en sus páginas.
+- **Discord:** es una app de chat organizada en comunidades (llamadas *servidores*), cada una con canales por tema. Es como un grupo de WhatsApp gigante, pero ordenado. TryHackMe y CyLab Security Academy tienen sus propios servidores, donde puedes hacer preguntas cuando te trabes. Busca el link en sus páginas. Funciona desde el navegador, así que no es necesario instalarlo.
   - ⚠️ Como en cualquier lugar de internet: no compartas datos personales (dirección, teléfono, colegio o universidad) y desconfía de quien te ofrezca "ayuda" por privado.
 - **Eventos y charlas** de ciberseguridad en Chile, muchas veces gratis o en línea. Busca "charla ciberseguridad Chile" o "evento ciberseguridad online".
 - **Mujeres en ciberseguridad:** hay comunidades latinoamericanas muy activas y acogedoras. Por ejemplo, busca **WOMCY (Latam Women in Cybersecurity)**: tiene presencia en Chile y ofrece mentorías y capacitaciones.
