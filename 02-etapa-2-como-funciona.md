@@ -1,7 +1,5 @@
 # Etapa 2 · Cómo funciona todo por dentro
 
-⏱️ *4–6 semanas · 45–60 min, 3 veces por semana*
-
 🎯 **Objetivo:** entender lo básico de **internet, las redes y los computadores**. No se puede proteger (ni atacar) lo que no se entiende.
 
 > 🧘 Esta es la etapa más "de estudio". Si se pone pesada, intercala con un reto de la Etapa 3 para no perder la motivación.
@@ -16,7 +14,7 @@ TryHackMe funciona por **"salas" (rooms)**: lecciones cortas con explicación y 
 
 - Empieza por el camino **"Pre Security"**: está hecho para personas sin conocimientos previos.
 - Muchas salas introductorias son **gratis**. Si te topas con una de pago, sáltala y sigue con la siguiente.
-- La cuenta gratis tiene un límite diario de uso del computador virtual (más o menos una hora). Es suficiente para avanzar a buen ritmo.
+- La cuenta gratis tiene un límite diario de uso del computador virtual (más o menos una hora).
 - Está en inglés. Si se te hace difícil, usa el traductor del navegador sin culpa.
 
 ### Qué vas a ver (en simple)
@@ -29,11 +27,11 @@ TryHackMe funciona por **"salas" (rooms)**: lecciones cortas con explicación y 
 | **Linux** | ¿Cómo uso un computador solo escribiendo comandos? |
 | **Windows por dentro** | ¿Dónde guarda las cosas y cómo maneja los usuarios? |
 
-## Plan sugerido
+## Orden sugerido
 
-- **Semanas 1–2:** salas de redes e internet de Pre Security.
-- **Semanas 3–4:** salas de Linux. Aquí empieza lo entretenido.
-- **Semanas 5–6:** salas de web y Windows, y luego el juego **Bandit** (abajo).
+1. Salas de redes e internet de Pre Security.
+2. Salas de Linux. Aquí empieza lo entretenido.
+3. Salas de web y Windows, y luego el juego **Bandit** (abajo).
 
 ## 🎮 Bonus: OverTheWire · Bandit
 
@@ -43,7 +41,7 @@ Es un juego por niveles en el que, para pasar al siguiente, tienes que encontrar
 
 - Empieza cuando hayas hecho las salas de Linux.
 - La meta no es terminarlo, sino **llegar al nivel 10 o 15**.
-- Si te trancas, buscar pistas está permitido (pero intenta 15 minutos antes de buscarlas).
+- Si te trancas, buscar pistas está permitido (pero inténtalo un rato antes de buscarlas).
 
 ---
 
@@ -54,5 +52,5 @@ Es un juego por niveles en el que, para pasar al siguiente, tienes que encontrar
 3. ¿Qué te aburrió más? (Anótalo: también dice mucho sobre qué camino podría ser el tuyo)
 
 - 🟢 → [Etapa 3: retos](03-etapa-3-primeros-retos.md)
-- 🟡 → Toma una semana de pausa y vuelve. A veces la cabeza necesita descansar para que todo encaje.
+- 🟡 → Toma una pausa y vuelve. A veces la cabeza necesita descansar para que todo encaje.
 - 🔴 → Si lo técnico definitivamente no es lo tuyo, mira la parte de **Gestión y normas** en la [Etapa 4](04-etapa-4-elegir-camino.md). Hay ciberseguridad con mucho menos de terminal.

@@ -1,7 +1,5 @@
 # Etapa 3 · Primeros retos (jugar a hackear, legalmente)
 
-⏱️ *4–8 semanas · a tu ritmo*
-
 🎯 **Objetivo:** resolver acertijos de seguridad de verdad. Aquí es donde la mayoría descubre si esto le apasiona.
 
 ---
@@ -39,8 +37,7 @@ Si te gustó TryHackMe en la Etapa 2, sigue con el camino **Cyber Security 101**
 ## 🧩 Tips para no frustrarse
 
 - **Atascarse es parte del juego.** Los profesionales también se atascan todo el día.
-- Regla de los **20 minutos**: si llevas 20 minutos sin avanzar, busca una pista. Si no hay, busca un *writeup* (una solución escrita por otra persona). **Léelo, ciérralo e intenta hacerlo sola.**
-- Anota en la bitácora **qué aprendiste** con cada reto, no solo si lo resolviste.
+- Si llevas un buen rato sin avanzar, busca una pista. Si no hay, busca un *writeup* (una solución escrita por otra persona). **Léelo, ciérralo e intenta hacerlo sola.**
 
 ---
 

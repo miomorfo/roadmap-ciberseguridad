@@ -1,7 +1,5 @@
 # Etapa 0 · Antes de empezar
 
-⏱️ *1 tarde. Solo leer y mirar.*
-
 ## ¿Qué es la ciberseguridad?
 
 Es **proteger personas, información y sistemas** de quienes quieren robar, espiar o romper cosas en el mundo digital.
@@ -37,7 +35,7 @@ Lo que vas a aprender se puede usar para proteger o para dañar. La diferencia l
 
 En Chile, entrar sin permiso a sistemas ajenos es delito (Ley 21.459 de delitos informáticos). Quienes trabajan en esto toman la ética muy en serio, y eso es parte de lo que hace respetable la profesión.
 
-## 📺 Para mirar esta tarde (opcional)
+## 📺 Para mirar (opcional)
 
 - Busca en YouTube **"qué hace un analista de ciberseguridad"** o **"un día en la vida de un pentester"**. Mira 2 o 3 videos cortos de personas distintas.
 - Mientras miras, pregúntate: *¿me imagino haciendo esto?*
@@ -48,4 +46,4 @@ En Chile, entrar sin permiso a sistemas ajenos es delito (Ley 21.459 de delitos 
 2. ¿Te dio curiosidad saber cómo se hace alguna de esas cosas?
 3. ¿Tienes ganas de probar la Etapa 1?
 
-👉 Con un "sí" basta para seguir. Anota tus respuestas en la [bitácora](bitacora.md).
+👉 Con un "sí" basta para seguir.

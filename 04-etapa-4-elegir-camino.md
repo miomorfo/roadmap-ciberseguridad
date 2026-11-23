@@ -4,9 +4,9 @@
 
 ---
 
-## Mira tu bitácora
+## Piensa en lo que hiciste
 
-Antes de leer lo de abajo, abre tu [bitácora](bitacora.md) y responde:
+Antes de leer lo de abajo, responde:
 
 - ¿Qué actividades disfruté **más**?
 - ¿Cuáles me aburrieron?
@@ -35,7 +35,7 @@ Antes de leer lo de abajo, abre tu [bitácora](bitacora.md) y responde:
 
 ## ¿Y estudiar algo formal?
 
-Si después de todo esto sientes que **sí te gusta**, conversa con tu familia sobre opciones de estudio en Chile: carreras técnicas o universitarias de informática, redes o ciberseguridad, o certificaciones. Ya vas a llegar sabiendo mucho más que el promedio, y con una bitácora que demuestra tu interés.
+Si después de todo esto sientes que **sí te gusta**, conversa con tu familia sobre opciones de estudio en Chile: carreras técnicas o universitarias de informática, redes o ciberseguridad, o certificaciones. Ya vas a llegar sabiendo mucho más que el promedio.
 
 ## Comunidad
 
