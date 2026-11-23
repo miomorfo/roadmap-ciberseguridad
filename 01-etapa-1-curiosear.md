@@ -22,22 +22,37 @@ Cuando a una empresa le roban su base de datos, los correos y contraseñas de su
 4. Si sale rojo, baja en la página. Vas a ver la lista de filtraciones con el nombre de cada sitio y qué datos se filtraron (por ejemplo, *Email addresses, Passwords*).
 5. **Qué hacer:** si en alguna dice **Passwords**, cambia la contraseña de ese sitio **y la de cualquier otro sitio donde uses la misma**. Las misiones B y C te ayudan con eso.
 
-### Misión B · Un gestor de contraseñas
+### Misión B · Entender los gestores de contraseñas
 
-**El problema:** casi todos usamos la misma contraseña (o parecidas) en todos lados. Si se filtra una, se pueden meter a todas tus cuentas.
+**El problema:** casi todos usamos la misma contraseña (o parecidas) en todos lados. Si se filtra una, se pueden meter a todas tus cuentas. Y nadie puede recordar 30 contraseñas largas y distintas.
 
-**La solución:** un **gestor de contraseñas** es como una caja fuerte. Guarda todas tus contraseñas y solo tienes que recordar una: la **contraseña maestra**.
+**La solución:** un **gestor de contraseñas** es como una caja fuerte digital. Guarda todas tus contraseñas cifradas y tú solo tienes que recordar una: la **contraseña maestra**, que abre la caja.
 
-1. Entra a [bitwarden.com](https://bitwarden.com) y crea una cuenta gratis.
-2. Crea tu **contraseña maestra**. Lo mejor es una frase de 4 o 5 palabras que no tengan relación entre sí, por ejemplo: `tetera-violeta-sube-montaña` (¡no uses esa!).
-   - ⚠️ **Si olvidas la contraseña maestra, nadie puede recuperarla**, ni siquiera Bitwarden. Anótala en un papel y guárdalo en un lugar seguro de tu casa.
-3. Instala:
-   - La **extensión** para tu navegador (Edge o Chrome). La encuentras en la página de Bitwarden, en *Download*. Una extensión es un pequeño programa que se agrega al navegador y aparece como un ícono arriba a la derecha.
-   - La **app** en tu celular.
-4. Empieza por tus **5 cuentas más importantes** (correo, Instagram, banco, etc.). Para cada una:
-   1. Entra a la cuenta, ve a *Configuración* y busca *Cambiar contraseña*.
-   2. Usa el **generador** de Bitwarden (ícono de Bitwarden → *Generador*) para crear una contraseña larga y al azar.
-   3. Guárdala en Bitwarden. Desde ahora, Bitwarden la va a rellenar por ti.
+#### Cómo funcionan
+
+- **Generan contraseñas** largas y al azar por ti, como `q7#Lm!2vRz9@pXw4`. No tienes que inventarlas ni recordarlas.
+- **Las rellenan solas** cuando entras a un sitio, desde el computador y desde el celular.
+- **Te avisan** si una contraseña está repetida, es débil o apareció en una filtración.
+- Las guardan **cifradas**: aunque alguien robara el archivo, sin la contraseña maestra no puede leer nada.
+
+#### Tipos que existen
+
+| Tipo | Ejemplos | Ventaja | A tener en cuenta |
+|---|---|---|---|
+| **Los que vienen en el navegador o el teléfono** | Gestor de contraseñas de Google (Chrome/Android), el de Edge, Llavero de iCloud (Apple) | Ya los tienes, no hay que instalar nada | Funcionan mejor dentro del mismo ecosistema (todo Google, todo Apple, etc.) |
+| **Apps dedicadas** | Bitwarden, 1Password, Proton Pass, KeePassXC | Funcionan en cualquier navegador y teléfono, y tienen más funciones | Hay que instalarlas. Algunas son gratis y otras son de pago |
+
+No hay uno "correcto". Lo importante es la idea: **contraseñas distintas y largas para cada sitio, guardadas en un lugar seguro**.
+
+#### Para investigar
+
+1. Revisa si tu navegador ya está guardando contraseñas. En Chrome: *Configuración* → *Autocompletar y contraseñas* → *Gestor de contraseñas*. En Edge: *Configuración* → *Perfiles* → *Contraseñas*. ¿Qué tienes guardado? ¿Te avisa de contraseñas repetidas o filtradas?
+2. Busca en YouTube **"qué es un gestor de contraseñas"** y compara 2 o 3 opciones. ¿Cuál te parece más cómoda?
+3. Si decides usar uno, cambia primero las contraseñas de tus cuentas más importantes (correo, Instagram, banco) por contraseñas nuevas generadas por el gestor.
+
+⚠️ **Sea cual sea el que elijas:** la contraseña maestra (o la de tu cuenta de Google o Apple, si usas el del navegador o el teléfono) es la llave de todo. Que sea larga, por ejemplo una frase de 4 o 5 palabras sin relación entre sí, y no la uses en ningún otro lado. En muchos gestores, **si la olvidas, nadie puede recuperarla**.
+
+🤔 *Para pensar:* ¿qué pasaría si alguien supiera la contraseña que más repites?
 
 ### Misión C · Verificación en dos pasos (2FA)
 
@@ -51,7 +66,7 @@ Actívala en estas tres cuentas (los nombres de los menús pueden variar un poco
 | **Instagram** | Tu perfil → menú **☰** (arriba a la derecha) → **Centro de cuentas** → **Contraseña y seguridad** → **Autenticación en dos pasos** |
 | **WhatsApp** | **Configuración** (o *Ajustes*) → **Cuenta** → **Verificación en dos pasos** → crea un PIN de 6 números que no olvides |
 
-💡 Algunas apps te dan **códigos de respaldo** al activarla. Guárdalos (por ejemplo, en una nota segura de Bitwarden): sirven para entrar si pierdes el celular.
+💡 Algunas apps te dan **códigos de respaldo** al activarla. Guárdalos en un lugar seguro (en tu gestor de contraseñas o en un papel en tu casa): sirven para entrar si pierdes el celular.
 
 🤔 *Para pensar:* ¿por qué esto hace tan difícil que te roben la cuenta?
 

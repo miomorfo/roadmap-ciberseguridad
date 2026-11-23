@@ -37,7 +37,7 @@
 | **ISO 27001** | Estándar internacional que explica cómo una organización debe proteger su información. |
 | **CyberChef** | Página web para decodificar y transformar textos. Muy útil en retos de criptografía. |
 | **Discord** | App de chat organizada en comunidades con canales por tema. Muchas comunidades de ciberseguridad están ahí. |
-| **Extensión (del navegador)** | Pequeño programa que se agrega a Edge o Chrome, por ejemplo, el de Bitwarden. |
+| **Extensión (del navegador)** | Pequeño programa que se agrega a Edge o Chrome, por ejemplo, la de un gestor de contraseñas. |
 | **Gestor de contraseñas** | App que guarda todas tus contraseñas de forma segura, protegidas por una sola contraseña maestra. |
 | **Dominio** | El nombre de una página web, como `google.com`. Lo que importa es la parte final, justo antes de la primera `/`. |
 | **GRC** | Gobierno, Riesgo y Cumplimiento: la parte de normas, políticas y gestión. |
