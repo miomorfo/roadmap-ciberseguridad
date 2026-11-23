@@ -22,7 +22,6 @@ Al final de cada etapa hay un **🚦 Semáforo**: tres preguntas cortas para dec
 
 - [`bitacora.md`](bitacora.md): tu diario. Anota lo que hiciste y cómo te sentiste. Es lo más importante de toda la carpeta.
 - [`glosario.md`](glosario.md): palabras raras explicadas en simple.
-- [`para-el-tio.md`](para-el-tio.md): notas para quien te acompaña.
 
 ## 🧭 Reglas del juego
 
