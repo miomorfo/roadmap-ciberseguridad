@@ -1,0 +1,9 @@
+title: "🔐 Ciberseguridad: ruta para probar sin perderse"
+description: "Una guía paso a paso para descubrir si la ciberseguridad te gusta, sin saber nada antes."
+theme: jekyll-theme-cayman
+lang: es
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
