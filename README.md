@@ -17,7 +17,7 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 - Haz clic en el nombre de cada etapa para abrirla.
 - Al final de cada etapa hay un link **"← Volver al inicio"** para regresar aquí.
 - Las palabras en **negrita** que no conozcas probablemente estén en el [glosario](glosario.md).
-- Muchas plataformas están en **inglés**. En Edge o Chrome, haz clic derecho en la página → **Traducir al español**. No tiene nada de malo usarlo.
+- Casi todo el material está en **inglés**, y eso es a propósito: en ciberseguridad el inglés es parte del trabajo. No necesitas saber mucho para empezar. Lee la página [El inglés en ciberseguridad](ingles.md), que tiene consejos y las palabras que más se repiten.
 
 ## 🗺️ El mapa
 

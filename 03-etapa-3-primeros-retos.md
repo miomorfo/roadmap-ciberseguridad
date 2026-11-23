@@ -8,7 +8,7 @@
 
 **CTF = Capture The Flag ("captura la bandera").** Son desafíos en los que tienes que encontrar un texto secreto (la **bandera** o *flag*) escondido en algún lado: en un archivo, una página web, un mensaje cifrado, una imagen… Una bandera se ve más o menos así: `picoCTF{h0la_mund0}`. Cuando la encuentras, la copias, la pegas en la página del reto y ganas puntos.
 
-Cada reto es como un mini misterio. Hay de varios tipos (las categorías están en inglés porque así aparecen en la plataforma):
+Cada reto es como un mini misterio. Hay de varios tipos. Apréndete los nombres en inglés, porque así aparecen en todas las plataformas:
 
 | Categoría | De qué se trata | Si te gusta, quizás te va… |
 |---|---|---|
@@ -26,7 +26,7 @@ Cada reto es como un mini misterio. Hay de varios tipos (las categorías están 
 
 Es una plataforma gratuita de la **Universidad Carnegie Mellon** (Estados Unidos), pensada para estudiantes que recién empiezan. Antes se llamaba **picoCTF**. Cambió de nombre en 2026, pero es el mismo equipo y los mismos retos. Por eso, en internet vas a encontrar mucha información con el nombre antiguo, y las banderas todavía pueden empezar con `picoCTF{`.
 
-Está en inglés. Usa el traductor del navegador para las explicaciones (clic derecho en la página → **Traducir al español**).
+Está en inglés. Las descripciones de los retos suelen ser cortas, así que son una buena práctica: léelas en inglés y busca solo las palabras que te traben.
 
 ### Paso 1 · Crea tu cuenta
 

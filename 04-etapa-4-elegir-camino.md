@@ -24,7 +24,7 @@ Un **SOC** (Centro de Operaciones de Seguridad) es el equipo que vigila los sist
 ### 🔴 Si te gustó la web y "romper" cosas → **Ataque ético / Pentesting**
 
 - **TryHackMe → camino "Jr Penetration Tester".** También tiene partes de pago.
-- **PortSwigger Web Security Academy** → [portswigger.net/web-security](https://portswigger.net/web-security). Es gratis y es de lo mejor que existe para aprender seguridad web. Necesitas crear una cuenta. Está en inglés.
+- **PortSwigger Web Security Academy** → [portswigger.net/web-security](https://portswigger.net/web-security). Es gratis y es de lo mejor que existe para aprender seguridad web. Necesitas crear una cuenta. Está en inglés, con explicaciones bien escritas y claras.
 - **Más adelante: Hack The Box** → [hackthebox.com](https://www.hackthebox.com). Es parecido a TryHackMe, pero **más difícil y menos guiado**. Déjalo para cuando TryHackMe te quede fácil.
 
 ### 🔍 Si te gustó Forensics → **Forense digital**

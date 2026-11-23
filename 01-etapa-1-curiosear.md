@@ -14,7 +14,7 @@ Haz estas misiones una por una.
 
 Cuando a una empresa le roban su base de datos, los correos y contraseñas de sus usuarios pueden terminar circulando en internet. A eso se le llama **filtración**.
 
-1. Entra a [haveibeenpwned.com](https://haveibeenpwned.com). Es un sitio confiable y conocido que junta las filtraciones públicas. Está en inglés, pero es muy simple.
+1. Entra a [haveibeenpwned.com](https://haveibeenpwned.com). Es un sitio confiable y conocido que junta las filtraciones públicas. Está en inglés, pero es muy simple: es una buena primera práctica.
 2. Escribe tu correo en el recuadro y aprieta **Check**.
 3. Vas a ver uno de dos resultados:
    - 🟢 **"Good news — no pwnage found!"**: tu correo no aparece en filtraciones conocidas.
@@ -106,7 +106,7 @@ El **phishing** son mensajes falsos (correos, SMS, WhatsApp) que se hacen pasar 
 
 1. Entra al link y aprieta el botón para empezar (*Get Started* o similar).
 2. Crea una cuenta gratis con tu correo.
-3. **Elige el idioma Español.** Si la página aparece en inglés, busca el selector de idioma (un ícono de globo 🌐 o un menú que dice *English*).
+3. **Elige el idioma.** El curso está disponible en español y en inglés. Como es tu primer curso, está bien hacerlo en español para entender bien los conceptos. Si te sientes capaz, hazlo en inglés: vas a aprender el vocabulario que después se usa en todas partes. Para cambiar el idioma, busca el selector (un ícono de globo 🌐 o un menú que dice *English*).
 4. El curso tiene **módulos** con lecturas cortas, videos y preguntas de práctica. Avanza de a uno.
 5. Al final hay una evaluación. Si la apruebas, te dan un **certificado** y una **insignia digital** que puedes poner en tu CV o en LinkedIn.
 

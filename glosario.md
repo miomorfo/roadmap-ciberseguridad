@@ -1,5 +1,7 @@
 # 📖 Glosario (en simple)
 
+> Para el vocabulario en inglés de las plataformas (Submit, Hint, Task…), revisa [El inglés en ciberseguridad](ingles.md).
+
 | Palabra | Qué significa |
 |---|---|
 | **2FA / verificación en dos pasos** | Además de la contraseña, pedir un código (del celular, por ejemplo). Si te roban la contraseña, igual no pueden entrar. |

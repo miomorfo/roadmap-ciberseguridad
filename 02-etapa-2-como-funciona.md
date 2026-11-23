@@ -37,11 +37,11 @@ Está hecho para personas **sin ningún conocimiento previo**. Vas a ver una lis
 
 Muchas salas introductorias son **gratis**. Las de pago tienen un candado o dicen **Premium** o **Subscribers**. Si te topas con una, **sáltala** y sigue con la siguiente. No necesitas pagar nada.
 
-### Paso 5 · Si el inglés se pone difícil
+### Paso 5 · El inglés
 
-TryHackMe está en inglés. En **Edge** o **Chrome**, haz clic derecho en cualquier parte de la página → **Traducir al español**.
+TryHackMe está en inglés, y aquí empieza en serio la práctica del idioma. Lee las explicaciones en inglés y busca solo las palabras que no entiendas. Te va a costar al principio, pero en pocas salas vas a notar que las palabras se repiten. Revisa los consejos y el vocabulario en [El inglés en ciberseguridad](ingles.md).
 
-⚠️ **Ojo:** el traductor a veces traduce también los comandos y los nombres de archivos, y eso los rompe. Los textos que aparecen en **recuadros grises** (comandos, respuestas, nombres de archivos) escríbelos siempre **tal cual, en inglés**.
+⚠️ Si alguna vez usas el traductor del navegador, recuerda que puede romper los comandos y nombres de archivos. Lo que aparece en **recuadros grises** se escribe siempre **tal cual, en inglés**.
 
 ### Qué vas a ver (en simple)
 
