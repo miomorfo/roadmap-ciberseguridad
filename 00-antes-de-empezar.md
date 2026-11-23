@@ -23,21 +23,23 @@ En ciberseguridad existen todos esos trabajos. No todos son "hackear", y no todo
 | 📋 **Gestión y normas** (GRC) | Políticas, riesgos, leyes, capacitar a la gente | le gusta organizar, comunicar, escribir |
 | 🧠 **Ingeniería social / concientización** | Enseña a las personas a no caer en engaños | le gusta la psicología y hablar con gente |
 
+Los nombres en inglés entre paréntesis (Blue Team, SOC, Pentesting, GRC…) son como se les dice en la industria. No tienes que memorizarlos; están todos en el [glosario](glosario.md).
+
 No tienes que elegir ahora. Solo tenlo en mente: **mientras avanzas, fíjate qué actividades disfrutas más**. Eso te va a decir mucho.
 
 ## ⚖️ La regla más importante: ética y ley
 
 Lo que vas a aprender se puede usar para proteger o para dañar. La diferencia la marca **el permiso**.
 
-- ✅ Practicar en plataformas creadas para eso (TryHackMe, picoCTF, OverTheWire…).
+- ✅ Practicar en plataformas creadas para eso (TryHackMe, CyLab Security Academy, OverTheWire…). Ahí todo está preparado para que practiques, y tienes permiso.
 - ✅ Revisar la seguridad de **tus propias** cuentas y equipos.
 - ❌ Entrar a la cuenta, el WiFi, el celular o la página de otra persona, **aunque sea "de broma" o "para ver si se puede"**.
 
-En Chile, entrar sin permiso a sistemas ajenos es delito (Ley 21.459 de delitos informáticos). Quienes trabajan en esto toman la ética muy en serio, y eso es parte de lo que hace respetable la profesión.
+En Chile, entrar sin permiso a sistemas ajenos es delito: lo dice la **Ley 21.459 de delitos informáticos**, y puede tener penas de cárcel. Quienes trabajan en esto toman la ética muy en serio, y eso es parte de lo que hace respetable la profesión.
 
 ## 📺 Para mirar (opcional)
 
-- Busca en YouTube **"qué hace un analista de ciberseguridad"** o **"un día en la vida de un pentester"**. Mira 2 o 3 videos cortos de personas distintas.
+- Busca en YouTube **"qué hace un analista de ciberseguridad"** o **"un día en la vida de un pentester"** (*pentester* es la persona que hace ataque ético). Mira 2 o 3 videos cortos de personas distintas.
 - Mientras miras, pregúntate: *¿me imagino haciendo esto?*
 
 ## 🚦 Semáforo
@@ -47,3 +49,9 @@ En Chile, entrar sin permiso a sistemas ajenos es delito (Ley 21.459 de delitos 
 3. ¿Tienes ganas de probar la Etapa 1?
 
 👉 Con un "sí" basta para seguir.
+
+👉 [Ir a la Etapa 1](01-etapa-1-curiosear.md)
+
+---
+
+[← Volver al inicio](README.md)

@@ -6,6 +6,19 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 
 ---
 
+## 🧰 Qué necesitas
+
+- Un **computador** con internet (Windows sirve perfecto).
+- Un **correo** para crear cuentas en las plataformas.
+- **Nada más.** Casi todo funciona en el navegador (Edge o Chrome). La única excepción es el juego Bandit de la Etapa 2, y ahí está explicado paso a paso.
+
+## 🖱️ Cómo usar esta página
+
+- Haz clic en el nombre de cada etapa para abrirla.
+- Al final de cada etapa hay un link **"← Volver al inicio"** para regresar aquí.
+- Las palabras en **negrita** que no conozcas probablemente estén en el [glosario](glosario.md).
+- Muchas plataformas están en **inglés**. En Edge o Chrome, haz clic derecho en la página → **Traducir al español**. No tiene nada de malo usarlo.
+
 ## 🗺️ El mapa
 
 | Etapa | Nombre | ¿Qué vas a sentir? |
@@ -18,9 +31,9 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 
 Al final de cada etapa hay un **🚦 Semáforo**: tres preguntas cortas para decidir si sigues, si te tomas una pausa o si cambias de rumbo.
 
-## 📁 Otros archivos
+## 📖 Glosario
 
-- [`glosario.md`](glosario.md): palabras raras explicadas en simple.
+¿Una palabra rara? Búscala en el [glosario](glosario.md): ahí está todo explicado en simple.
 
 ## 🧭 Reglas del juego
 

@@ -8,14 +8,40 @@
 
 ## Plataforma principal: TryHackMe
 
-👉 [tryhackme.com](https://tryhackme.com): crea una cuenta gratis.
+👉 [tryhackme.com](https://tryhackme.com)
 
-TryHackMe funciona por **"salas" (rooms)**: lecciones cortas con explicación y preguntas, y muchas incluyen un computador virtual que se abre en el navegador, así que no tienes que instalar nada.
+TryHackMe es una plataforma para aprender ciberseguridad practicando. Funciona por **salas** (*rooms*): lecciones cortas con explicación y preguntas. Las salas se agrupan en **caminos** (*paths*), que son como cursos completos.
 
-- Empieza por el camino **"Pre Security"**: está hecho para personas sin conocimientos previos.
-- Muchas salas introductorias son **gratis**. Si te topas con una de pago, sáltala y sigue con la siguiente.
-- La cuenta gratis tiene un límite diario de uso del computador virtual (más o menos una hora).
-- Está en inglés. Si se te hace difícil, usa el traductor del navegador sin culpa.
+### Paso 1 · Crea tu cuenta
+
+1. Entra a [tryhackme.com](https://tryhackme.com) y aprieta **Sign up** (registrarse). Puedes usar tu cuenta de Google o un correo.
+2. Te va a hacer algunas preguntas sobre tu experiencia. Responde que eres principiante.
+
+### Paso 2 · Abre el camino "Pre Security"
+
+👉 Link directo: [tryhackme.com/path/outline/presecurity](https://tryhackme.com/path/outline/presecurity)
+
+Está hecho para personas **sin ningún conocimiento previo**. Vas a ver una lista de salas agrupadas por tema. Hazlas en orden.
+
+### Paso 3 · Cómo funciona una sala
+
+1. Abre una sala. Si aparece el botón **Join Room** (unirse a la sala), apriétalo.
+2. La sala está dividida en **tareas** (*Task 1, Task 2…*). Haz clic en cada una para abrirla.
+3. Cada tarea tiene una explicación y, al final, una o más **preguntas**. Escribe tu respuesta en el recuadro y aprieta **Submit** (enviar). Si está bien, se pone verde ✅.
+4. Si una pregunta dice **"No answer needed"** (no necesita respuesta), solo aprieta el botón para marcarla como completada.
+5. Algunas tareas tienen un botón verde **Start Machine** o **Start AttackBox**. Eso enciende un **computador virtual**: un computador que existe en internet y que usas desde el navegador. Aparece al lado de las instrucciones (la pantalla se divide en dos).
+   - No se instala nada en tu computador y **no puedes romper nada**: si algo sale mal, lo apagas y lo vuelves a encender.
+   - La cuenta gratis tiene un límite diario de uso del computador virtual (más o menos una hora).
+
+### Paso 4 · Gratis y de pago
+
+Muchas salas introductorias son **gratis**. Las de pago tienen un candado o dicen **Premium** o **Subscribers**. Si te topas con una, **sáltala** y sigue con la siguiente. No necesitas pagar nada.
+
+### Paso 5 · Si el inglés se pone difícil
+
+TryHackMe está en inglés. En **Edge** o **Chrome**, haz clic derecho en cualquier parte de la página → **Traducir al español**.
+
+⚠️ **Ojo:** el traductor a veces traduce también los comandos y los nombres de archivos, y eso los rompe. Los textos que aparecen en **recuadros grises** (comandos, respuestas, nombres de archivos) escríbelos siempre **tal cual, en inglés**.
 
 ### Qué vas a ver (en simple)
 
@@ -32,6 +58,8 @@ TryHackMe funciona por **"salas" (rooms)**: lecciones cortas con explicación y 
 1. Salas de redes e internet de Pre Security.
 2. Salas de Linux. Aquí empieza lo entretenido.
 3. Salas de web y Windows, y luego el juego **Bandit** (abajo).
+
+💡 En la sección de Linux vas a usar por primera vez la **terminal**: una ventana donde le das órdenes al computador escribiendo, en vez de usar el mouse. Al principio se ve intimidante, pero son pocas palabras que se repiten mucho (`ls` para ver archivos, `cd` para moverte entre carpetas, `cat` para leer un archivo…). Las salas te las enseñan una por una.
 
 ## 🎮 Bonus: OverTheWire · Bandit
 
@@ -113,3 +141,7 @@ Y así sucesivamente: `bandit2`, `bandit3`… Cada nivel te da la llave del sigu
 - 🟢 → [Etapa 3: retos](03-etapa-3-primeros-retos.md)
 - 🟡 → Toma una pausa y vuelve. A veces la cabeza necesita descansar para que todo encaje.
 - 🔴 → Si lo técnico definitivamente no es lo tuyo, mira la parte de **Gestión y normas** en la [Etapa 4](04-etapa-4-elegir-camino.md). Hay ciberseguridad con mucho menos de terminal.
+
+---
+
+[← Volver al inicio](README.md)
