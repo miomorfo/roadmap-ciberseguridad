@@ -43,6 +43,65 @@ Es un juego por niveles en el que, para pasar al siguiente, tienes que encontrar
 - La meta no es terminarlo, sino **llegar al nivel 10 o 15**.
 - Si te trancas, buscar pistas está permitido (pero inténtalo un rato antes de buscarlas).
 
+### ¿Cómo se juega? (lee esto antes de abrir la página)
+
+A diferencia de TryHackMe, Bandit **no se juega en el navegador**. La página solo tiene las instrucciones de cada nivel. Para jugar, te conectas desde tu computador a un servidor Linux que está en internet, y lo controlas escribiendo comandos.
+
+Esa conexión se hace con **SSH**: un programa que te deja usar otro computador a distancia, de forma segura, solo con texto. Es como abrir una ventana a un computador que está en otra parte del mundo.
+
+La buena noticia: **Windows 10 y 11 ya traen SSH**. No tienes que instalar nada.
+
+#### Paso 1 · Abre la terminal de Windows
+
+Aprieta la tecla **Windows**, escribe **Terminal** (o **PowerShell**) y ábrela. Vas a ver una ventana negra o azul con un texto parecido a `PS C:\Users\TuNombre>`. Ahí se escriben los comandos.
+
+#### Paso 2 · Conéctate al nivel 0
+
+Copia este comando, pégalo en la terminal y aprieta **Enter**:
+
+```
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+
+Qué significa cada parte:
+
+| Parte | Qué es |
+|---|---|
+| `ssh` | El programa para conectarse |
+| `bandit0` | El usuario con el que entras (el nivel 0) |
+| `bandit.labs.overthewire.org` | La dirección del servidor del juego |
+| `-p 2220` | El "puerto", o sea, por qué puerta entrar. **No lo olvides**, sin esto no funciona |
+
+#### Paso 3 · Las preguntas que te va a hacer
+
+1. **La primera vez** va a aparecer un mensaje largo que termina en `Are you sure you want to continue connecting (yes/no)?`. Es normal: te pregunta si confías en ese servidor. Escribe **`yes`** y aprieta Enter.
+2. Luego va a aparecer un dibujo grande con letras y te va a pedir `password:`. Para el nivel 0 la contraseña es **`bandit0`**.
+3. ⚠️ **Cuando escribes la contraseña no aparece nada en la pantalla**: ni letras ni asteriscos. No está pegado, es una medida de seguridad. Escríbela igual y aprieta Enter.
+
+Si todo salió bien, vas a ver algo como `bandit0@bandit:~$`. **¡Estás dentro de un servidor Linux!** 🎉 Desde aquí funcionan los mismos comandos que practicaste en TryHackMe (`ls`, `cat`, `cd`…).
+
+#### Paso 4 · Pasar de nivel
+
+1. En la página de Bandit, lee las instrucciones del **Level 0 → Level 1**. Ahí te dice dónde está escondida la contraseña del siguiente nivel.
+2. Cuando la encuentres, **cópiala y guárdala** en un bloc de notas. Las vas a necesitar si quieres volver otro día.
+3. Sal del servidor escribiendo **`exit`**.
+4. Conéctate de nuevo, pero ahora como `bandit1`, y usa la contraseña que encontraste:
+
+```
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+```
+
+Y así sucesivamente: `bandit2`, `bandit3`… Cada nivel te da la llave del siguiente.
+
+#### 💡 Trucos útiles
+
+- **Pegar en la terminal:** `Ctrl + V` o **clic derecho**.
+- **Copiar desde la terminal:** selecciona el texto con el mouse y aprieta `Ctrl + C` (o clic derecho).
+- **Repetir un comando anterior:** usa la flecha **↑** del teclado.
+- **Si escribes mal la contraseña**, solo te la vuelve a pedir. Inténtalo de nuevo con calma.
+- **Si aparece `Connection refused` o se queda pegado**, revisa que pusiste `-p 2220` al final.
+- **Si no te deja escribir nada en la terminal**, aprieta `Ctrl + C` para cancelar lo que estaba haciendo.
+
 ---
 
 ## 🚦 Semáforo de la Etapa 2

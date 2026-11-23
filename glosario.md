@@ -15,6 +15,7 @@
 | **Cifrado** | Transformar información para que solo quien tiene la llave pueda leerla. |
 | **Hash** | La "huella digital" de un dato. Sirve, por ejemplo, para guardar contraseñas sin guardarlas tal cual. |
 | **Terminal / consola** | Programa para darle órdenes al computador escribiendo, sin usar el mouse. |
+| **SSH** | Programa para conectarte a otro computador a distancia y controlarlo escribiendo comandos, con la conexión cifrada. |
 | **Linux** | Sistema operativo (como Windows o macOS) muy usado en servidores y en ciberseguridad. |
 | **Vulnerabilidad** | Una falla que alguien podría aprovechar para hacer algo indebido. |
 | **Exploit** | La técnica o programa que aprovecha una vulnerabilidad. |
