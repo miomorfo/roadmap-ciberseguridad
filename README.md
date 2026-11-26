@@ -10,7 +10,7 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 
 - Un **computador** con internet (Windows sirve perfecto).
 - Un **correo** para crear cuentas en las plataformas.
-- **Nada más. No tienes que instalar ningún programa ni extensión.** Todo funciona en el navegador (Edge o Chrome). La única excepción es el juego Bandit de la Etapa 2, que usa la terminal que Windows ya trae, y ahí está explicado paso a paso.
+- **Nada más. No tienes que instalar ningún programa ni extensión.** Todo funciona en el navegador (Edge o Chrome). La única excepción es el juego Bandit de la Etapa 2, que usa la terminal que Windows ya trae, y ahí está explicado paso a paso. *(Más adelante, si quieres, la [Ruta Blue Team y forense](ruta-blue-team-forense.md) explica cómo armar tu propio laboratorio, pero es opcional).*
 
 ## 🖱️ Cómo usar esta página
 

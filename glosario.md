@@ -19,6 +19,9 @@
 | **Terminal / consola** | Programa para darle órdenes al computador escribiendo, sin usar el mouse. |
 | **SSH** | Programa para conectarte a otro computador a distancia y controlarlo escribiendo comandos, con la conexión cifrada. |
 | **Webshell** | Una terminal de Linux que funciona dentro del navegador, sin instalar nada. La usa CyLab Security Academy. |
+| **WSL** | *Windows Subsystem for Linux*: función de Windows para tener Linux funcionando dentro de Windows. |
+| **Kali Linux** | El Linux más conocido en ciberseguridad, con cientos de herramientas de ataque ético ya instaladas. |
+| **SIFT Workstation** | Linux gratuito de SANS con herramientas forenses ya instaladas. |
 | **Linux** | Sistema operativo (como Windows o macOS) muy usado en servidores y en ciberseguridad. |
 | **Vulnerabilidad** | Una falla que alguien podría aprovechar para hacer algo indebido. |
 | **Exploit** | La técnica o programa que aprovecha una vulnerabilidad. |
