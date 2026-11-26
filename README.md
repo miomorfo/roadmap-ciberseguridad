@@ -30,6 +30,12 @@ No es una carrera ni un curso obligatorio. Es una ruta para **ir probando de a p
 | 3 | [Primeros retos (jugar a hackear, legal)](03-etapa-3-primeros-retos.md) | "¡Lo resolví!" 🎉 |
 | 4 | [Elegir un camino](04-etapa-4-elegir-camino.md) | "Esto es lo mío" (o no) |
 
+### Rutas por área
+
+Si ya sabes qué te llama la atención, hay una página que te dice en qué fijarte dentro de cada etapa y qué hacer después:
+
+- 🔵🔍 [**Ruta Blue Team y forense**](ruta-blue-team-forense.md): defender, investigar incidentes y entender cómo funcionan las amenazas.
+
 Al final de cada etapa hay un **🚦 Semáforo**: tres preguntas cortas para decidir si sigues, si te tomas una pausa o si cambias de rumbo.
 
 ## 📖 Glosario

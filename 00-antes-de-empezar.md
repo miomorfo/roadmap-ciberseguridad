@@ -25,6 +25,8 @@ En ciberseguridad existen todos esos trabajos. No todos son "hackear", y no todo
 
 Los nombres en inglés entre paréntesis (Blue Team, SOC, Pentesting, GRC…) son como se les dice en la industria. No tienes que memorizarlos; están todos en el [glosario](glosario.md).
 
+¿Ya te llamó la atención alguno? Si es **Defensa** o **Forense**, hay una [ruta especial](ruta-blue-team-forense.md) para eso. Igual conviene pasar por las etapas, porque son la base.
+
 No tienes que elegir ahora. Solo tenlo en mente: **mientras avanzas, fíjate qué actividades disfrutas más**. Eso te va a decir mucho.
 
 ## ⚖️ La regla más importante: ética y ley

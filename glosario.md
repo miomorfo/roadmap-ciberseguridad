@@ -39,4 +39,10 @@
 | **Discord** | App de chat organizada en comunidades con canales por tema. Muchas comunidades de ciberseguridad están ahí. |
 | **Gestor de contraseñas** | App que guarda todas tus contraseñas de forma segura, protegidas por una sola contraseña maestra. |
 | **Dominio** | El nombre de una página web, como `google.com`. Lo que importa es la parte final, justo antes de la primera `/`. |
+| **DFIR** | *Digital Forensics and Incident Response*: forense digital y respuesta a incidentes. |
+| **Log (registro)** | Anotación automática de un evento: un inicio de sesión, un error, una conexión. |
+| **IOC** | *Indicator of Compromise*: pista que indica un ataque, como una IP o un archivo malicioso. |
+| **PCAP** | Archivo con una grabación del tráfico de una red. |
+| **Wireshark** | Herramienta para ver el tráfico de una red paquete por paquete. |
+| **MITRE ATT&CK** | Catálogo público de las técnicas que usan los atacantes. |
 | **GRC** | Gobierno, Riesgo y Cumplimiento: la parte de normas, políticas y gestión. |

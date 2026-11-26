@@ -16,6 +16,8 @@ Antes de leer lo de abajo, responde:
 
 ### 🔵 Si te gustó encontrar pistas, patrones y "qué pasó aquí" → **Defensa / SOC**
 
+👉 Hay una página completa para esto: [**Ruta Blue Team y forense**](ruta-blue-team-forense.md).
+
 Un **SOC** (Centro de Operaciones de Seguridad) es el equipo que vigila los sistemas de una empresa todo el día para detectar ataques. Es el área con más puestos de entrada en la industria.
 
 - **TryHackMe → camino "SOC Level 1".** Búscalo en *Learning Paths*. Ojo: buena parte de este camino es de pago. Haz primero las salas gratis y, solo si te encanta, considera pagar.
@@ -28,6 +30,8 @@ Un **SOC** (Centro de Operaciones de Seguridad) es el equipo que vigila los sist
 - **Más adelante: Hack The Box** → [hackthebox.com](https://www.hackthebox.com). Es parecido a TryHackMe, pero **más difícil y menos guiado**. Déjalo para cuando TryHackMe te quede fácil.
 
 ### 🔍 Si te gustó Forensics → **Forense digital**
+
+👉 También está en la [**Ruta Blue Team y forense**](ruta-blue-team-forense.md).
 
 - Más retos de la categoría **Forensics** en [CyLab Security Academy](https://cylabacademy.org).
 - En TryHackMe, busca salas de **forense** (*forensics*) y **respuesta a incidentes** (*incident response*). Usa el buscador de salas y filtra por gratis (*free*) y fácil (*easy*).
