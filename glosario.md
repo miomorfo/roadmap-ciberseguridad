@@ -1,4 +1,4 @@
-# 📖 Glosario (en simple)
+# Glosario
 
 > Para el vocabulario en inglés de las plataformas (Submit, Hint, Task…), revisa [El inglés en ciberseguridad](ingles.md).
 

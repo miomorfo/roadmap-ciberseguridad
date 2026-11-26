@@ -1,8 +1,8 @@
 # Etapa 1 · Curiosear
 
-🎯 **Objetivo:** entender los peligros más comunes de internet **protegiéndote a ti misma**. Es la forma más fácil y útil de empezar: lo que aprendas lo vas a usar todos los días, aunque no sigas con la ciberseguridad.
+**Objetivo:** entender los peligros más comunes de internet protegiendo tus propias cuentas. Lo que aprendas aquí te sirve aunque no sigas con la ciberseguridad.
 
-> 💡 Los menús de las apps y páginas cambian seguido. Si algún paso no calza exactamente con lo que ves, busca en Google, por ejemplo, **"activar verificación en dos pasos Instagram"**, y sigue la guía más reciente.
+> Los menús de las apps y páginas cambian seguido. Si algún paso no calza exactamente con lo que ves, busca en Google, por ejemplo, "activar verificación en dos pasos Instagram", y sigue la guía más reciente.
 
 ---
 
@@ -12,28 +12,28 @@ Haz estas misiones una por una.
 
 ### Misión A · ¿Se filtraron tus datos?
 
-Cuando a una empresa le roban su base de datos, los correos y contraseñas de sus usuarios pueden terminar circulando en internet. A eso se le llama **filtración**.
+Cuando a una empresa le roban su base de datos, los correos y contraseñas de sus usuarios pueden terminar circulando en internet. A eso se le llama filtración.
 
 1. Entra a [haveibeenpwned.com](https://haveibeenpwned.com). Es un sitio confiable y conocido que junta las filtraciones públicas. Está en inglés, pero es muy simple: es una buena primera práctica.
 2. Escribe tu correo en el recuadro y aprieta **Check**.
 3. Vas a ver uno de dos resultados:
-   - 🟢 **"Good news — no pwnage found!"**: tu correo no aparece en filtraciones conocidas.
-   - 🔴 **"Oh no — pwned!"**: tu correo aparece en una o más filtraciones. *(No te asustes: le pasa a casi todo el mundo).*
+   - **"Good news — no pwnage found!"**: tu correo no aparece en filtraciones conocidas.
+   - **"Oh no — pwned!"**: tu correo aparece en una o más filtraciones. Es muy común.
 4. Si sale rojo, baja en la página. Vas a ver la lista de filtraciones con el nombre de cada sitio y qué datos se filtraron (por ejemplo, *Email addresses, Passwords*).
-5. **Qué hacer:** si en alguna dice **Passwords**, cambia la contraseña de ese sitio **y la de cualquier otro sitio donde uses la misma**. Las misiones B y C te ayudan con eso.
+5. **Qué hacer:** si en alguna dice Passwords, cambia la contraseña de ese sitio y la de cualquier otro sitio donde uses la misma. Las misiones B y C te ayudan con eso.
 
 ### Misión B · Entender los gestores de contraseñas
 
 **El problema:** casi todos usamos la misma contraseña (o parecidas) en todos lados. Si se filtra una, se pueden meter a todas tus cuentas. Y nadie puede recordar 30 contraseñas largas y distintas.
 
-**La solución:** un **gestor de contraseñas** es como una caja fuerte digital. Guarda todas tus contraseñas cifradas y tú solo tienes que recordar una: la **contraseña maestra**, que abre la caja.
+**La solución:** un gestor de contraseñas es como una caja fuerte digital. Guarda todas tus contraseñas cifradas y tú solo tienes que recordar una: la contraseña maestra, que abre la caja.
 
 #### Cómo funcionan
 
 - **Generan contraseñas** largas y al azar por ti, como `q7#Lm!2vRz9@pXw4`. No tienes que inventarlas ni recordarlas.
 - **Las rellenan solas** cuando entras a un sitio, desde el computador y desde el celular.
 - **Te avisan** si una contraseña está repetida, es débil o apareció en una filtración.
-- Las guardan **cifradas**: aunque alguien robara el archivo, sin la contraseña maestra no puede leer nada.
+- Las guardan cifradas: aunque alguien robara el archivo, sin la contraseña maestra no puede leer nada.
 
 #### Tipos que existen
 
@@ -42,33 +42,31 @@ Cuando a una empresa le roban su base de datos, los correos y contraseñas de su
 | **Los que vienen en el navegador o el teléfono** | Gestor de contraseñas de Google (Chrome/Android), el de Edge, Llavero de iCloud (Apple) | Ya los tienes, no hay que instalar nada | Funcionan mejor dentro del mismo ecosistema (todo Google, todo Apple, etc.) |
 | **Apps dedicadas** | Bitwarden, 1Password, Proton Pass, KeePassXC | Funcionan en cualquier navegador y teléfono, y tienen más funciones | Hay que instalarlas. Algunas son gratis y otras son de pago |
 
-No hay uno "correcto". Lo importante es la idea: **contraseñas distintas y largas para cada sitio, guardadas en un lugar seguro**.
+No hay uno "correcto". Lo importante es la idea: contraseñas distintas y largas para cada sitio, guardadas en un lugar seguro.
 
 #### Para investigar
 
 1. Revisa si tu navegador ya está guardando contraseñas. En Chrome: *Configuración* → *Autocompletar y contraseñas* → *Gestor de contraseñas*. En Edge: *Configuración* → *Perfiles* → *Contraseñas*. ¿Qué tienes guardado? ¿Te avisa de contraseñas repetidas o filtradas?
-2. Busca en YouTube **"qué es un gestor de contraseñas"** y compara 2 o 3 opciones. ¿Cuál te parece más cómoda?
+2. Busca en YouTube "qué es un gestor de contraseñas" y compara 2 o 3 opciones. ¿Cuál te parece más cómoda?
 3. Si decides usar uno, cambia primero las contraseñas de tus cuentas más importantes (correo, Instagram, banco) por contraseñas nuevas generadas por el gestor.
 
-⚠️ **Sea cual sea el que elijas:** la contraseña maestra (o la de tu cuenta de Google o Apple, si usas el del navegador o el teléfono) es la llave de todo. Que sea larga, por ejemplo una frase de 4 o 5 palabras sin relación entre sí, y no la uses en ningún otro lado. En muchos gestores, **si la olvidas, nadie puede recuperarla**.
-
-🤔 *Para pensar:* ¿qué pasaría si alguien supiera la contraseña que más repites?
+**Sea cual sea el que elijas:** la contraseña maestra (o la de tu cuenta de Google o Apple, si usas el del navegador o el teléfono) es la llave de todo. Que sea larga, por ejemplo una frase de 4 o 5 palabras sin relación entre sí, y no la uses en ningún otro lado. En muchos gestores, si la olvidas, nadie puede recuperarla.
 
 ### Misión C · Verificación en dos pasos (2FA)
 
-Con esto, para entrar a tu cuenta no basta la contraseña: también se necesita **un código que llega a tu celular**. Si alguien roba tu contraseña, igual no puede entrar, porque no tiene tu teléfono.
+Con esto, para entrar a tu cuenta no basta la contraseña: también se necesita un código que llega a tu celular. Si alguien roba tu contraseña, igual no puede entrar, porque no tiene tu teléfono.
 
 Actívala en estas tres cuentas (los nombres de los menús pueden variar un poco):
 
 | Cuenta | Dónde se activa |
 |---|---|
 | **Gmail / Google** | Entra a [myaccount.google.com](https://myaccount.google.com) → **Seguridad** → **Verificación en 2 pasos** → sigue los pasos |
-| **Instagram** | Tu perfil → menú **☰** (arriba a la derecha) → **Centro de cuentas** → **Contraseña y seguridad** → **Autenticación en dos pasos** |
+| **Instagram** | Tu perfil → menú ** (arriba a la derecha) → Centro de cuentas → Contraseña y seguridad → Autenticación en dos pasos** |
 | **WhatsApp** | **Configuración** (o *Ajustes*) → **Cuenta** → **Verificación en dos pasos** → crea un PIN de 6 números que no olvides |
 
-💡 Algunas apps te dan **códigos de respaldo** al activarla. Guárdalos en un lugar seguro (en tu gestor de contraseñas o en un papel en tu casa): sirven para entrar si pierdes el celular.
+Algunas apps te dan códigos de respaldo al activarla. Guárdalos en un lugar seguro (en tu gestor de contraseñas o en un papel en tu casa): sirven para entrar si pierdes el celular.
 
-🤔 *Para pensar:* ¿por qué esto hace tan difícil que te roben la cuenta?
+Pregunta para pensar: ¿por qué esto hace tan difícil que te roben la cuenta?
 
 ### Misión D · Revisa los permisos de tus apps
 
@@ -79,13 +77,11 @@ Muchas apps piden acceso a tu ubicación, micrófono o cámara aunque no lo nece
 
 Revisa la lista. ¿Una app de linterna con acceso a tu ubicación? ¿Un juego con acceso al micrófono? Quítale el permiso.
 
-🤔 *Para pensar:* ¿qué te sorprendió de todo esto?
-
 ---
 
 ## 2 · Aprender a detectar engaños (phishing)
 
-El **phishing** son mensajes falsos (correos, SMS, WhatsApp) que se hacen pasar por alguien confiable, como un banco, Correos de Chile o Netflix, para que hagas clic en un link y entregues tus datos. Es el ataque más común del mundo.
+El phishing son mensajes falsos (correos, SMS, WhatsApp) que se hacen pasar por alguien confiable, como un banco, Correos de Chile o Netflix, para que hagas clic en un link y entregues tus datos. Es el ataque más común del mundo.
 
 ### Las señales de alerta
 
@@ -99,15 +95,15 @@ El **phishing** son mensajes falsos (correos, SMS, WhatsApp) que se hacen pasar 
 
 ### Cómo revisar un link sin hacer clic
 
-- **En el computador:** pon el mouse encima del link **sin hacer clic**. Abajo a la izquierda del navegador aparece la dirección real.
+- **En el computador:** pon el mouse encima del link sin hacer clic. Abajo a la izquierda del navegador aparece la dirección real.
 - **En el celular:** mantén el dedo apretado sobre el link (sin soltarlo rápido) y aparece la dirección.
-- **Fíjate en la parte final del dominio**, justo antes de la primera `/`. En `bancoestado.cl.verificar-cuenta.com`, el sitio real es **verificar-cuenta.com**, no BancoEstado.
+- **Fíjate en la parte final del dominio**, justo antes de la primera `/`. En `bancoestado.cl.verificar-cuenta.com`, el sitio real es verificar-cuenta.com, no BancoEstado.
 
 ### Misiones
 
 1. **Haz el quiz de phishing de Google** → [phishingquiz.withgoogle.com](https://phishingquiz.withgoogle.com). Te muestra 8 correos y tienes que decidir cuáles son falsos. Al final te explica cada uno.
    - Te va a pedir un nombre y un correo: es solo para que los ejemplos se vean más reales. Puedes inventarlos.
-   - 😄 Dato curioso: la dirección del quiz se ve rara, ¡pero es real de Google! Justamente por eso hay que revisar con calma.
+   - La dirección del quiz se ve rara, pero es de Google. Es un buen ejemplo de por qué hay que revisar los dominios con atención.
 2. **Revisa tu carpeta de spam.** Busca 3 correos sospechosos (sin hacer clic en nada adentro) y, para cada uno, identifica qué señales de la tabla tiene.
 3. **Busca en Google** "estafas por SMS Chile" o "estafas WhatsApp Chile" y lee 2 o 3 noticias. ¿Cómo engañan a la gente?
 
@@ -115,26 +111,26 @@ El **phishing** son mensajes falsos (correos, SMS, WhatsApp) que se hacen pasar 
 
 ## 3 · Un curso cortito con certificado
 
-**Cisco** es una de las empresas de redes más grandes del mundo. Su plataforma educativa, **Networking Academy (NetAcad)**, tiene cursos gratuitos.
+**Cisco** es una de las empresas de redes más grandes del mundo. Su plataforma educativa, Networking Academy (NetAcad), tiene cursos gratuitos.
 
-👉 **"Introduction to Cybersecurity"**: [netacad.com/courses/introduction-to-cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity)
+**"Introduction to Cybersecurity"**: [netacad.com/courses/introduction-to-cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity)
 
 1. Entra al link y aprieta el botón para empezar (*Get Started* o similar).
 2. Crea una cuenta gratis con tu correo.
-3. **Elige el idioma.** El curso está disponible en español y en inglés. Como es tu primer curso, está bien hacerlo en español para entender bien los conceptos. Si te sientes capaz, hazlo en inglés: vas a aprender el vocabulario que después se usa en todas partes. Para cambiar el idioma, busca el selector (un ícono de globo 🌐 o un menú que dice *English*).
-4. El curso tiene **módulos** con lecturas cortas, videos y preguntas de práctica. Avanza de a uno.
-5. Al final hay una evaluación. Si la apruebas, te dan un **certificado** y una **insignia digital** que puedes poner en tu CV o en LinkedIn.
+3. **Elige el idioma.** El curso está disponible en español y en inglés. Como es el primer curso, puedes hacerlo en español para entender bien los conceptos. Si te sientes capaz, hazlo en inglés para ir aprendiendo el vocabulario. Para cambiar el idioma, busca el selector (un ícono de globo o un menú que dice *English*).
+4. El curso tiene módulos con lecturas cortas, videos y preguntas de práctica. Avanza de a uno.
+5. Al final hay una evaluación. Si la apruebas, te dan un certificado y una insignia digital que puedes poner en tu CV o en LinkedIn.
 
 No pide conocimientos previos.
 
 ---
 
-## 🚦 Semáforo de la Etapa 1
+## Para decidir si sigues de la Etapa 1
 
 1. ¿Disfrutaste las misiones, o las sentiste como tarea?
-2. ¿Te dio curiosidad saber **cómo** funcionan los ataques por dentro?
-3. ¿Le contaste a alguien algo que aprendiste? (Si lo hiciste, es una buena señal 😉)
+2. ¿Te dio curiosidad saber cómo funcionan los ataques por dentro?
+3. ¿Le contaste a alguien algo que aprendiste?
 
-- 🟢 **Me gustó y quiero más** → [Etapa 2](02-etapa-2-como-funciona.md)
-- 🟡 **Más o menos** → Prueba igual el comienzo de la Etapa 2. A muchas personas les engancha cuando empiezan a "tocar" cosas.
-- 🔴 **No me gustó** → ¡Bien! Ya sabes protegerte mejor que la mayoría. Puedes quedarte aquí sin culpa.
+- Si te gustó: sigue con la [Etapa 2](02-etapa-2-como-funciona.md)
+- Si te gustó más o menos: prueba el comienzo de la Etapa 2. La parte práctica es distinta a esta.
+- Si no te gustó: puedes quedarte aquí. Lo aprendido te sirve para protegerte.
